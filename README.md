@@ -74,11 +74,6 @@ Dokumentasi screenshot hasil implementasi aplikasi dapat dilihat pada folder [`u
 
 Screenshot yang disertakan meliputi:
 
-1. **Tampilan Halaman Dashboard**
-   <br>
-   <img src="uts/screenshots/dashboard.jpeg" width="280" alt="Tampilan Dashboard" />
-
-2. **Tampilan Menu Utama Aplikasi**
-   <br>
-   <img src="uts/screenshots/menu.jpeg" width="280" alt="Tampilan Menu Utama" />
+1. Tampilan halaman Dashboard.
+2. Tampilan menu utama aplikasi.
 
