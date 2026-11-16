@@ -70,13 +70,15 @@ Untuk menjalankan aplikasi KosMajuJaya, diperlukan beberapa perangkat lunak dan 
 
 ## Screenshot Hasil Implementasi
 
-Dokumentasi screenshot hasil implementasi aplikasi dapat dilihat pada folder `uts/screenshots/`.
+Dokumentasi screenshot hasil implementasi aplikasi dapat dilihat pada folder [`uts/screenshots/`](uts/screenshots/).
 
 Screenshot yang disertakan meliputi:
 
-1. Tampilan halaman Dashboard.
-2. Tampilan informasi kamar dan penghuni.
-3. Tampilan ringkasan keuangan.
-4. Tampilan grafik keuangan.
-5. Tampilan menu utama aplikasi.
+1. **Tampilan Halaman Dashboard**
+   <br>
+   <img src="uts/screenshots/dashboard.jpeg" width="280" alt="Tampilan Dashboard" />
+
+2. **Tampilan Menu Utama Aplikasi**
+   <br>
+   <img src="uts/screenshots/menu.jpeg" width="280" alt="Tampilan Menu Utama" />
 
